@@ -492,7 +492,7 @@ This project demonstrates practical implementation of:
 
 **Name:** *Rishi Patel*
 
-**Course:** Bachelor of Engineering (Computer Engineering)
+**Course:** Bachelor of Technology (Information Technology)
 
 **Institute:** ADIT (A.D. Patel Institute of Technology)
 
